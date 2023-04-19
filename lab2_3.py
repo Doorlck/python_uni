@@ -9,3 +9,5 @@ print(x,"*2=",z)
 #slicing
 w=x[0]
 print(x,"[1]=",w,sep="")
+w=x[0:5]
+
