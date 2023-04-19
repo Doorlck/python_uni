@@ -12,4 +12,5 @@ res=((a+b)**c)*d//e-f
 print(res,"=((a+b)**c)*d//e-f",sep="")
 #4
 res=a+b**c*(d//(e-f))
-print(res,"=a+b**c*(d//(e-f)",sep="")
+print(res,"=a+b**c*(d//(e-f)",sep="") 
+                                                  

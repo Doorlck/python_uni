@@ -9,7 +9,7 @@ print("x*y=",u,"\nx/y=",v,"\nx//y=",w,"\nx%y=",z,"\na=",a)
 
 #우선순위(precedence rule)
 #parenthesis 괄호
-#exp
-#mul,div,mod
-#add,sub
+#exp 지수
+#mul,div,mod 곱하기 나누기 나머지
+#add,sub 더하기 빼기
 #left to right
